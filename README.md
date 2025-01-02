@@ -51,6 +51,17 @@
 
 ###
 
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Wahab2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Wahab2&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
+
+###
+
 <h2 align="left">Connect with me</h2>
 
 ###
