@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdul Wahab and I'm a Backend Engineer, from [2022].</p>
+<p align="left">My name is Abdul Wahab and I'm a Backend Engineer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating scalable backend solutions since [Your Start Year]<br>
+<p align="left">✨ Creating scalable backend solutions since 2022<br>
 📚 I'm currently learning deep backend development<br>
 🎯 Goals: Contribute to impactful open-source projects and enhance backend scalability<br>
 🎲 Fun fact: I love exploring new tech stacks and solving puzzles</p>
@@ -43,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  
 </div>
 
 ###
